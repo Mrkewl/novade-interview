@@ -1,0 +1,3 @@
+class Novade {}
+
+class Section {}
